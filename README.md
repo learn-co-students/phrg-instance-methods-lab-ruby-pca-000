@@ -39,4 +39,7 @@ Add an instance method `#walk` to your `Person` class in `lib/person.rb` that wi
 
 When you're done, submit the lab with `learn submit`.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-instance-methods-lab-ruby/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-instance-methods-lab-ruby/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Instance Methods Lab Ruby</p>
